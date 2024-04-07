@@ -80,7 +80,7 @@ img {
 body {
     width: 100%;
     min-height: 100vh;
-    background: url(./img/22cd997605a5b41c7fe28172d33c2cd6-photoaidcom-darken.jpeg);
+    background: url(./img/caasd.jpeg);
     background-size: 100% 100%;
     display: flex;
     justify-content: center;
@@ -127,7 +127,7 @@ body {
 }
 
 .contacts .row form span {
-    color: red;
+    color: #00fae9;
     font-size: calc(15px + (16 - 12) * ((100vw - 300px) / (1600 - 300)));
 }
 
